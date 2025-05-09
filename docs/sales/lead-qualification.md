@@ -981,3 +981,320 @@ Drive new qualified leads:
 **Q: How do we handle prospects with unrealistic budget expectations?**  
 A: Education is key. Share the ROI calculator and typical implementation ranges early in discussions. Explore phased approaches that can align with budget constraints while setting realistic expectations. Some prospects may not be ready now but can become qualified over time as they secure appropriate budget.
 
+**Q: What's the best approach for prospects comparing multiple platforms?**  
+A: Focus on their specific business requirements rather than feature-by-feature comparisons. Use the competitive battle cards to highlight Store.icu's unique advantages for their use case. Ask targeted questions about what they value most in a platform and align your positioning accordingly. Remember that being included in a competitive evaluation is a positive sign of qualification.
+
+**Q: How do we qualify leads that come through the website with minimal information?**  
+A: Implement a progressive qualification process. Begin with a brief initial call focused purely on understanding their needs and sharing high-level information. Use the Initial Qualification Checklist to efficiently assess if they meet basic criteria before investing significant time. Based on that assessment, determine whether to proceed with a full discovery session.
+
+**Q: When should we disqualify a prospect?**  
+A: Disqualify prospects when: 1) Their requirements fundamentally misalign with platform capabilities, 2) Their budget is significantly below implementation viability with no path to increase, 3) Their timeline is unrealistically short with no flexibility, 4) They exhibit multiple red flags from the checklist, or 5) They have no clear decision-making process or authority. Disqualifying poor-fit prospects preserves resources for opportunities with higher success potential.
+
+**Q: How do we handle prospects who won't share budget information?**  
+A: First, understand that budget reluctance is common. Instead of asking for a specific number, provide ballpark ranges for similar implementations and gauge their reaction. Alternatively, discuss the business case and ROI first, then transition to investment levels required to achieve those returns. If they remain completely unwilling to discuss financial parameters after multiple attempts, this could be a qualification red flag.
+
+### Technical Qualification Questions
+
+**Q: How do we evaluate technical fit when the prospect has highly specialized requirements?**  
+A: For specialized requirements, involve a solution architect in the qualification process. Conduct a focused technical discovery session to understand the specific needs in detail. Use the Solution Alignment Matrix to evaluate core platform capabilities against their requirements. For truly unique needs, consider a brief proof-of-concept exercise to validate technical feasibility before proceeding.
+
+**Q: What's the best way to qualify integration complexity?**  
+A: Develop a clear picture of their integration landscape early in discussions. Identify all systems that must connect with the ecommerce platform, the data flows between systems, synchronization frequency requirements, and any custom integrations. For complex integration scenarios, involve technical specialists who can assess feasibility and level of effort before providing estimates.
+
+**Q: How do we assess a prospect's internal technical capabilities?**  
+A: Evaluate their current team structure, roles, experience with similar platforms, and planned involvement in the implementation. Ask about their experience with previous technology projects and how they were resourced. This helps identify potential skill gaps, determine the appropriate level of partner services, and ensure realistic expectations about client responsibilities.
+
+**Q: When should we recommend a phased approach versus full implementation?**  
+A: Recommend phased implementation when: 1) The project has high complexity with numerous integrations, 2) The prospect has budget constraints but long-term vision, 3) There are tight timeline requirements for core functionality, 4) The organization has limited change management capacity, or 5) There are mission-critical components that must be prioritized. Clearly outline the advantages of phasing and present a comprehensive roadmap that achieves their complete vision over time.
+
+### General Business Questions
+
+**Q: How do we prioritize multiple qualified opportunities with limited resources?**  
+A: Use the lead scoring model to objectively evaluate and compare opportunities. Prioritize prospects with higher scores, shorter sales cycles, and better alignment with your firm's expertise and capacity. Consider the strategic value of each opportunity beyond immediate revenue, including long-term relationship potential, industry penetration, and reference value.
+
+**Q: What's the most effective way to use customer references in the qualification process?**  
+A: References are most effective late in the qualification process when prospects are evaluating final options. Match references to the prospect's industry, size, and use case for maximum impact. Prepare references with specific talking points related to the prospect's concerns. Use case studies earlier in the process, reserving direct customer references for serious prospects nearing decision.
+
+**Q: How do we balance qualification rigor with sales velocity?**  
+A: Focus initial qualification on the most critical factors that determine fit and viability. Use the Initial Qualification Checklist to quickly assess basic fit before investing in comprehensive discovery. Adjust the depth of qualification to the opportunity size—larger, more complex deals warrant more thorough qualification. Remember that proper qualification actually accelerates velocity by focusing efforts on viable opportunities.
+
+**Q: How do we effectively qualify opportunities coming from existing clients (upsell/cross-sell)?**  
+A: While existing relationships provide advantages, still conduct appropriate qualification. Focus on the specific business case for the new services, confirmation of budget allocation, and decision process for this purchase (which may differ from previous engagements). Leverage your understanding of their business and technical environment, but don't assume all new opportunities from existing clients will automatically close.
+
+## Prospecting Strategies
+
+### Target Account Identification
+
+Approaches for identifying high-potential prospects:
+
+#### Ideal Customer Profile Matching
+
+Focus prospecting on businesses matching these criteria:
+
+1. **Company Size Indicators**
+   - Annual revenue: $2M - $250M
+   - Employee count: 20-1,000
+   - Online transaction volume: 500+ monthly orders
+   - Growth trajectory: 10%+ annual growth
+
+2. **Technology Indicators**
+   - Using aging/limited ecommerce platform
+   - Approaching renewal on current platform
+   - Experiencing performance or scalability issues
+   - Limited mobile or omnichannel capabilities
+   - Struggling with integration challenges
+
+3. **Business Model Indicators**
+   - Multi-channel selling strategy
+   - B2B expansion initiatives
+   - International growth plans
+   - Subscription or recurring revenue components
+   - Complex product catalog or variant structure
+
+4. **Market Position Indicators**
+   - Established brand with digital growth focus
+   - Experiencing digital competitive pressure
+   - Undergoing business model transformation
+   - Investing in customer experience improvement
+   - Consolidating multiple brands or acquisitions
+
+#### Industry Targeting Strategy
+
+Prioritize industries with strong platform alignment:
+
+| Industry | Target Segments | Strategic Approach |
+|----------|----------------|-------------------|
+| **Manufacturing** | Industrial components, equipment, specialized parts | Focus on B2B capabilities and ERP integration |
+| **Fashion & Apparel** | Mid-market brands, multi-brand retailers, specialty apparel | Emphasize visual merchandising and variant handling |
+| **Home & Furniture** | Specialty retailers, manufacturer direct, home décor | Highlight visualization tools and delivery options |
+| **Food & Beverage** | Specialty foods, subscription services, direct-to-consumer | Focus on subscription capabilities and delivery management |
+| **Health & Beauty** | Cosmetics, wellness, personal care, nutrition | Emphasize content + commerce and subscription capabilities |
+| **Automotive** | Parts and accessories, aftermarket, specialty vehicles | Highlight fitment data handling and complex catalog management |
+
+#### Trigger Event Monitoring
+
+Identify businesses actively considering platform changes:
+
+1. **Company Event Triggers**
+   - Leadership changes (CEO, CIO, CMO, Digital Director)
+   - Funding announcements or investment rounds
+   - Merger and acquisition activity
+   - New market entry announcements
+   - Digital transformation initiatives
+
+2. **Technology Event Triggers**
+   - End of platform contract terms
+   - Platform end-of-life or version obsolescence
+   - Major security or performance incidents
+   - Digital agency relationship changes
+   - Implementation of complementary systems (ERP, CRM, PIM)
+
+3. **Market Event Triggers**
+   - Competitor digital experience improvements
+   - Industry disruption from digital-native competitors
+   - Regulatory changes requiring platform adjustments
+   - Seasonal performance disappoints (holiday results)
+   - Channel expansion announcements
+
+4. **Digital Presence Triggers**
+   - Website performance issues
+   - Mobile experience limitations
+   - Social media customer complaints
+   - Limited feature functionality
+   - Outdated design or user experience
+
+### Prospecting Outreach Approaches
+
+Effective strategies for initial contact with prospects:
+
+#### Value-Based Outreach
+
+Focus initial outreach on business value rather than platform features:
+
+1. **Research-Based Personalization**
+   - Reference specific business challenges visible from research
+   - Connect to relevant industry trends affecting their business
+   - Mention similar companies you've helped (without naming clients)
+   - Reference their public business initiatives or goals
+   - Show understanding of their specific market position
+
+2. **Business Insight Approach**
+   - Share relevant industry benchmark data
+   - Offer perspective on emerging competitive trends
+   - Provide calculated performance improvement potential
+   - Reference specific conversion optimization opportunities
+   - Discuss observed customer experience friction points
+
+3. **Problem-Solution Framing**
+   - Identify likely pain points based on their current platform
+   - Present specific capabilities addressing those pain points
+   - Quantify typical business impact of addressing these issues
+   - Share abbreviated success stories with measurable outcomes
+   - Offer educational resources related to their challenges
+
+4. **Consultative Positioning**
+   - Ask insightful questions about business objectives
+   - Offer valuable perspective regardless of platform selection
+   - Position as advisor rather than vendor
+   - Demonstrate expertise in their specific industry
+   - Focus on business outcomes rather than technology
+
+#### Multi-Channel Engagement Strategy
+
+Coordinated approach across multiple touchpoints:
+
+1. **Sequential Contact Plan**
+   - Initial personalized email
+   - LinkedIn connection with relevant context
+   - Follow-up email with valuable resource
+   - Direct phone outreach
+   - Social engagement with their content
+   - Event invitation or webinar opportunity
+
+2. **Content-Driven Engagement**
+   - Share industry-specific research
+   - Provide relevant case studies
+   - Offer assessment tools or calculators
+   - Invite to educational webinars
+   - Send platform comparison guides
+   - Share implementation planning resources
+
+3. **Relationship Network Leverage**
+   - Partner mutual connections
+   - Industry association relationships
+   - Event-based introductions
+   - Third-party influencer connections
+   - Existing client referrals
+   - Technology partner introductions
+
+### Lead Nurturing Process
+
+Developing opportunities that aren't immediately ready:
+
+1. **Qualification-Based Segmentation**
+   - Ready to engage: Active sales process
+   - Exploring options: Educational content focus
+   - Early research: Awareness and thought leadership
+   - Future potential: Long-term relationship building
+   - Poor fit: Respectful disengagement
+
+2. **Nurture Content Strategy**
+   - Industry trends and benchmark reports
+   - Platform comparison guides
+   - Implementation planning resources
+   - ROI calculation tools
+   - Technical capability demonstrations
+   - Client success webinars
+
+3. **Engagement Cadence**
+   - High potential: Biweekly personalized contact
+   - Medium potential: Monthly personalized contact
+   - Long-term: Quarterly check-ins with relevant triggers
+   - Re-evaluate qualification status every 90 days
+   - Adjust approach based on engagement signals
+
+4. **Conversion Triggers**
+   - Response to nurture content
+   - Website revisits and specific page views
+   - Resource downloads or tool usage
+   - Event or webinar attendance
+   - Direct inquiries or questions
+   - Social media engagement
+
+## Continuous Improvement
+
+### Qualification Metrics Tracking
+
+Monitor these indicators to refine your qualification process:
+
+1. **Lead-to-Opportunity Conversion Rate**
+   - Target: >25% of qualified leads convert to opportunities
+   - Segment by lead source, industry, and size
+   - Track trends over time to identify quality shifts
+   - Compare against partner benchmarks
+
+2. **Opportunity-to-Win Conversion Rate**
+   - Target: >40% of opportunities result in wins
+   - Analyze by qualification score categories
+   - Identify qualification criteria most correlated with wins
+   - Review losses for qualification improvements
+
+3. **Average Sales Cycle Length**
+   - Measure from qualification to close
+   - Compare actual vs. forecasted timeframes
+   - Identify stages with unexpected delays
+   - Analyze by company size and complexity
+
+4. **Resource Investment Efficiency**
+   - Track hours invested per opportunity
+   - Calculate cost of sale percentage
+   - Compare across won and lost opportunities
+   - Identify qualification factors predicting efficient sales
+
+5. **Initial Forecast Accuracy**
+   - Compare close date predictions with actuals
+   - Analyze win probability forecast accuracy
+   - Track deal size estimate precision
+   - Identify patterns in forecast variances
+
+### Qualification Process Refinement
+
+Regularly improve your qualification approach:
+
+1. **Win/Loss Analysis**
+   - Conduct structured post-decision reviews
+   - Identify missed qualification indicators
+   - Determine patterns in successful qualifications
+   - Adjust qualification criteria based on findings
+
+2. **Sales Team Feedback Loop**
+   - Regular qualification criteria review sessions
+   - Capture frontline qualification challenges
+   - Identify emerging prospect patterns
+   - Refine qualification questions and scoring
+
+3. **Implementation Feedback Integration**
+   - Correlate qualification assessments with project outcomes
+   - Identify which qualification factors predict successful implementations
+   - Capture "wish we had known" feedback from delivery teams
+   - Update qualification process to screen for success factors
+
+4. **Market Evolution Adaptation**
+   - Regular review of ideal customer profile
+   - Update industry sector targeting priorities
+   - Refine competitive positioning as market changes
+   - Adapt qualification criteria to platform evolution
+
+### Partner Success Collaboration
+
+Leverage Store.icu partnership resources:
+
+1. **Qualification Best Practices Sharing**
+   - Participate in partner community forums
+   - Attend qualification improvement workshops
+   - Share effective qualification approaches
+   - Learn from other partners' experiences
+
+2. **Joint Qualification Sessions**
+   - Invite Store.icu experts to join strategic discoveries
+   - Collaborate on technical qualification for complex needs
+   - Utilize solution architects for technical validation
+   - Leverage industry specialists for vertical requirements
+
+3. **Continuous Learning Resources**
+   - Access qualification training modules
+   - Utilize updated qualification templates
+   - Review new industry-specific guidance
+   - Stay current on platform capabilities
+
+4. **Partner Success Manager Guidance**
+   - Regular review of qualification approach
+   - Pipeline quality assessment
+   - Strategic opportunity guidance
+   - Access to specialized qualification resources
+
+---
+
+For assistance with lead qualification or additional resources, contact your Partner Success Manager or email partner-success@store.icu.
+
+*This qualification framework is regularly updated based on market conditions and partner feedback. Last updated: May 1, 2025.*
