@@ -2,46 +2,48 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Partner Resources Portal
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to our complete partner resources portal - your one-stop destination for all the tools, information, and assets you need to successfully partner with us.
+
+## How to Use This Portal
+
+This knowledge base is organized by functional areas to help you quickly find what you need:
+
+- **[Sales Resources](/docs/sales/overview)** - Product information, pricing, battle cards, and sales tools
+- **[Marketing Resources](/docs/marketing/overview)** - Branding guidelines, collateral, and co-marketing materials
+- **[Support Resources](/docs/support/overview)** - Knowledge base, troubleshooting, and escalation procedures
+- **[Technical Resources](/docs/technical/overview)** - APIs, integration guides, and development tools
+- **[Legal & Compliance](/docs/legal/overview)** - Terms of service, data protection, and regulatory information
+- **[Finance & Billing](/docs/finance/overview)** - Invoicing details, payment procedures, and financial reporting
+- **[Training & Enablement](/docs/training/overview)** - Onboarding guides, certification paths, and educational resources
+
+## Latest Updates
+
+We regularly enhance our partner resources. Here are the most recent additions:
+
+- **May 2025** - Updated pricing structure and new competitive analysis
+- **April 2025** - Added new marketing collateral for Q2 campaigns
+- **March 2025** - Released updated API documentation and new code samples
 
 ## Getting Started
 
-Get started by **creating a new site**.
+If you're new to our partner program:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+1. Start with the sales and product overview to understand our offerings
+2. Review the technical documentation if you need to integrate with our systems
+3. Check out the marketing resources for help promoting our partnership
+4. Set up your support processes using our escalation matrix and knowledge base
 
-### What you'll need
+## Support
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Need assistance? Contact our partner team:
 
-## Generate a new site
+- **Partner Support**: [partners@yourdomain.com](mailto:partners@yourdomain.com)
+- **Technical Support**: [support@yourdomain.com](mailto:support@yourdomain.com)
 
-Generate a new Docusaurus site using the **classic template**.
+Our dedicated partner management team is ready to help you succeed with our solutions!
 
-The classic template will automatically be added to your project after you run the command:
+## Downloads
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Visit our [Downloads](/downloads) section for quick access to all downloadable assets including presentations, product specifications, marketing materials, and technical documentation.
