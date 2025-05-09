@@ -981,4 +981,3 @@ Drive new qualified leads:
 **Q: How do we handle prospects with unrealistic budget expectations?**  
 A: Education is key. Share the ROI calculator and typical implementation ranges early in discussions. Explore phased approaches that can align with budget constraints while setting realistic expectations. Some prospects may not be ready now but can become qualified over time as they secure appropriate budget.
 
-**Q: What's the best approach for prospects
