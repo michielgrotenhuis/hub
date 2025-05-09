@@ -1,61 +1,99 @@
 import React from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
 
-const FeatureList = [
+// Define the categories for the Partner Hub
+const CategoryList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
+    title: 'Marketing',
+    subtitle: 'Resources to promote our products',
+    link: 'docs/category/marketing',
+    icon: '📣', // You can replace these with actual SVG imports similar to your original code
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
+    title: 'Sales Material',
+    subtitle: 'Tools to help close deals',
+    link: 'docs/category/sales-material',
+    icon: '💼',
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
+    title: 'Finance',
+    subtitle: 'Pricing and financial documents',
+    link: 'docs/category/finance',
+    icon: '💰',
+  },
+  {
+    title: 'Support',
+    subtitle: 'Help resources for partners',
+    link: 'docs/category/support',
+    icon: '🛟',
+  },
+  {
+    title: 'Technical',
+    subtitle: 'Technical documentation and guides',
+    link: '/docs/category/technical',
+    icon: '⚙️',
+  },
+  {
+    title: 'Training',
+    subtitle: 'Educational materials and courses',
+    link: '/docs/category/training',
+    icon: '🎓',
+  },
+  {
+    title: 'Integrations',
+    subtitle: 'Connect with other platforms',
+    link: 'docs/category/integrations',
+    icon: '🔄',
+  },
+  {
+    title: 'Legal',
+    subtitle: 'Contracts and compliance info',
+    link: '/docs/category/legal',
+    icon: '⚖️',
+  },
+  {
+    title: 'Downloads',
+    subtitle: 'Files and resources to download',
+    link: '/docs/category/downloads',
+    icon: '📥',
   },
 ];
 
-function Feature({Svg, title, description}) {
+// Component for each individual category card
+function CategoryCard({ title, subtitle, link, icon }) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
-      </div>
+      <Link to={link} className={styles.categoryCardLink}>
+        <div className={styles.categoryCard}>
+          <div className={styles.categoryIconContainer}>
+            <div className={styles.categoryIcon}>{icon}</div>
+          </div>
+          <div className={styles.categoryContent}>
+            <h3 className={styles.categoryTitle}>{title}</h3>
+            <p className={styles.categorySubtitle}>{subtitle}</p>
+          </div>
+        </div>
+      </Link>
     </div>
   );
 }
 
-export default function HomepageFeatures() {
+// Main component for the Partner Hub homepage
+export default function PartnerHubHomepage() {
   return (
-    <section className={styles.features}>
+    <section className={styles.categories}>
       <div className="container">
+        <div className="row text--center">
+          <div className="col">
+            <h1>Partner Hub Knowledge Base</h1>
+            <p className={styles.subtitle}>All the resources you need to succeed as our partner</p>
+          </div>
+        </div>
         <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
+          {CategoryList.map((props, idx) => (
+            <CategoryCard key={idx} {...props} />
           ))}
         </div>
       </div>
