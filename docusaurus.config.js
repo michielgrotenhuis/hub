@@ -73,44 +73,47 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Partner Docs',
-                to: '/docs/intro',
-              },
-            ],
-          },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/store.icu',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/store.icu',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Store.icu.`,
-      },
+     footer: {
+  style: 'dark',
+  links: [
+    {
+      title: 'Docs',
+      items: [
+        {
+          label: 'Partner Docs',
+          to: '/docs/intro',
+        },
+      ],
+    },
+    {
+      title: 'Community',
+      items: [
+        {
+          label: 'Discord',
+          href: 'https://discordapp.com/invite/store.icu',
+        },
+        {
+          label: 'Twitter',
+          href: 'https://twitter.com/store.icu',
+        },
+      ],
+    },
+    {
+      title: 'More',
+      items: [
+        {
+          label: 'Blog',
+          to: '/blog',
+        },
+        {
+          label: 'GitHub',
+          href: 'https://github.com/facebook/docusaurus',
+        },
+      ],
+    },
+  ],
+  copyright: `Copyright © ${new Date().getFullYear()} Store.icu.`,
+},
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
