@@ -2,7 +2,7 @@
 id: co-marketing
 title: Co-Marketing Guide
 sidebar_position: 3
-description: Learn how to co-market with Store.icu as a whitelabel partner.
+description: Information on joint marketing efforts, including email campaigns, webinars, and content collaborations. This section outlines how we can work together to reach shared audiences and maximize marketing impact.
 ---
 
 # Co-Marketing with Store.icu
