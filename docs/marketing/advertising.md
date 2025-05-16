@@ -2,6 +2,7 @@
 id: advertising-guidelines
 title: Advertising Guidelines for Resellers
 sidebar_label: Advertising Guidelines
+description: Ready-made ad creatives, video content, and campaign guidelines for digital and traditional advertising channels. These assets are designed to drive lead generation and brand awareness.
 ---
 
 # Advertising Guidelines for Resellers
