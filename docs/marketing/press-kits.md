@@ -26,10 +26,10 @@ Each template is fully customizable. Simply make a copy of the Google Doc, repla
 
 Download and use the official brand materials below:
 
-- 🖼️ **[Logo Pack (.zip)](https://yourdomain.com/assets/logo-pack.zip)**  
-- 📱 **[Product Screenshots (.zip)](https://yourdomain.com/assets/screenshots.zip)**  
-- 👥 **[Team Photos (.zip)](https://yourdomain.com/assets/team-photos.zip)**  
-- 🎬 **[Demo Video](https://yourdomain.com/demo)**  
+- 🖼️ **[Logo Pack (Google Drive)](https://drive.google.com/drive/folders/1DG8fByp8Ah5HPzZfrKrmaCJJ6YqxYysg?usp=sharing)**  
+- 📱 **[Product Screenshots (Google Drive)](https://drive.google.com/drive/folders/186vq4GU6s9R8bVxOcCEACc59yNOqJ6Xz?usp=sharing)**  
+- 👥 **[Team Photos (Google Drive)](https://drive.google.com/drive/folders/1FCSkwuQImlOGMDoANcEWIyx1UBGwV6-s?usp=sharing)**  
+- 🎬 **[Demo Video (Google Drive)](https://drive.google.com/drive/folders/1tc_NMU1UnH95Y8zjHZZ7jrM3d315iU_s?usp=sharing)**  
 
 ## ✅ How to Use This Press Kit
 
@@ -70,4 +70,4 @@ Here's an example of how a complete press kit might look:
 [PHONE]
 ```
 
-*For questions or custom support with your press kit, please contact your store.icu partner representative.*
+*For questions or custom support with your press kit, please contact your store.icu partner representative or send an email partners@store.icu*
