@@ -208,9 +208,9 @@ Add these badges to your website to highlight your GDPR expertise:
 
 | Badge | Description | Usage Recommendation |
 |-------|-------------|----------------------|
-| ![GDPR Ready Partner](/img/badges/gdpr-ready-partner.svg) | Indicates general GDPR implementation expertise | Homepage, footer |
-| ![Privacy By Design Certified](/img/badges/privacy-by-design.svg) | For partners with formal privacy-by-design training | Services page |
-| ![Store.icu Data Protection Partner](/img/badges/data-protection-partner.svg) | Official Store.icu recognition of data protection expertise | Partner credentials section |
+| ![GDPR Ready Partner] x | Indicates general GDPR implementation expertise | Homepage, footer |
+| ![Privacy By Design Certified] x | For partners with formal privacy-by-design training | Services page |
+| ![Store.icu Data Protection Partner] x | Official Store.icu recognition of data protection expertise | Partner credentials section |
 
 ## Client Communication Templates
 
