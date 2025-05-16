@@ -33,101 +33,99 @@ This will open the Knowledge Base in a new tab with your partner credentials aut
 
 The documentation is organized into logical sections to make information easy to find:
 
-### Core Platform
+### Getting Started
 
-- [Platform Overview](https://online-store.info/docs/platform/overview)
-- [System Architecture](https://online-store.info/docs/platform/architecture)
-- [Technical Requirements](https://online-store.info/docs/platform/requirements)
-- [Glossary of Terms](https://online-store.info/docs/platform/glossary)
-- [Release Notes](https://online-store.info/docs/platform/releases)
+- [What is Ecommerce](https://online-store.info/docs/getting-started/what-is-ecommerce)
+- [Getting Started Index](https://online-store.info/docs/getting-started/getting-started-index)
+- [Setup Ecommerce Store](https://online-store.info/docs/getting-started/setup-ecommerce-store)
+- [FAQ](https://online-store.info/docs/getting-started/faq)
+- [Billing & Subscription](https://online-store.info/docs/getting-started/billing-subscription)
 
-### Implementation Guides
+### Store Setup
 
-- [Store Setup Process](https://online-store.info/docs/implementation/setup)
-- [Configuration Checklist](https://online-store.info/docs/implementation/checklist)
-- [Domain Configuration](https://online-store.info/docs/implementation/domains)
-- [Launch Preparation](https://online-store.info/docs/implementation/launch)
-- [Post-Launch Verification](https://online-store.info/docs/implementation/verification)
+- [Connect Custom Domain](https://online-store.info/docs/store-setup/connect-custom-domain)
+- [Setting Up Currency](https://online-store.info/docs/store-setup/setting-up-currency)
+- [Branding](https://online-store.info/docs/store-setup/branding)
+- [Navigation Menus](https://online-store.info/docs/store-setup/navigation-menus)
+- [Pages](https://online-store.info/docs/store-setup/pages)
+
+### Products
+
+- [Products Index](https://online-store.info/docs/products/products-index)
+- [Creating Products](https://online-store.info/docs/products/creating-products)
+- [Product Collections](https://online-store.info/docs/products/product-collections)
+- [Inventory Management](https://online-store.info/docs/products/inventory-management)
+- [Price Rounding](https://online-store.info/docs/products/price-rounding)
+- [Locations](https://online-store.info/docs/products/locations)
+
+### Payments
+
+- [Payments Index](https://online-store.info/docs/payments/payments-index)
+- [Payment Methods](https://online-store.info/docs/payments/payment-methods)
+- [Cash on Delivery](https://online-store.info/docs/payments/cash-on-delivery)
+
+#### Payment Gateways
+
+- [PayPal](https://online-store.info/docs/payments/payment-gateways/paypal)
+- [Stripe](https://online-store.info/docs/payments/payment-gateways/stripe)
+- [PayStack](https://online-store.info/docs/payments/payment-gateways/paystack)
+- [Flutterwave](https://online-store.info/docs/payments/payment-gateways/flutterwave)
+- [Mercado Pago](https://online-store.info/docs/payments/payment-gateways/mercado-pago)
+- [Razorpay](https://online-store.info/docs/payments/payment-gateways/razorpay)
+- [Mamo Pay](https://online-store.info/docs/payments/payment-gateways/mamo-pay)
+- [Yoco](https://online-store.info/docs/payments/payment-gateways/yoco)
+- [Nets Easy](https://online-store.info/docs/payments/payment-gateways/nets-easy)
+- [Vipps](https://online-store.info/docs/payments/payment-gateways/vipps)
+- [Mollie](https://online-store.info/docs/payments/payment-gateways/mollie)
+- [ePoint](https://online-store.info/docs/payments/payment-gateways/epoint)
+- [iyzico](https://online-store.info/docs/payments/payment-gateways/iyzico)
+- [Payriff](https://online-store.info/docs/payments/payment-gateways/payriff)
+
+### Shipping
+
+- [Shipping Index](https://online-store.info/docs/shipping/shipping-index)
+- [Creating Shipping Rules](https://online-store.info/docs/shipping/creating-shipping-rules)
+- [Shipping Methods](https://online-store.info/docs/shipping/shipping-methods)
+- [Local Pickup](https://online-store.info/docs/shipping/local-pickup)
+
+#### Shipping Methods
+
+- [Courier Guy](https://online-store.info/docs/shipping/shipping-methods/courier-guy)
+- [MyParcel](https://online-store.info/docs/shipping/shipping-methods/myparcel)
+
+### Taxes
+
+- [Taxes Index](https://online-store.info/docs/taxes/taxes-index)
+- [Creating Tax Rates](https://online-store.info/docs/taxes/creating-tax-rates)
+
+### Marketing
+
+- [Marketing Index](https://online-store.info/docs/marketing/marketing-index)
+- [Marketing Tools](https://online-store.info/docs/marketing/marketing-tools)
+
+### Integrations
+
+- [Google Analytics](https://online-store.info/docs/integrations/google-analytics)
+- [Meta Pixel](https://online-store.info/docs/integrations/meta-pixel)
+- [TikTok Pixel](https://online-store.info/docs/integrations/tiktok-pixel)
+- [Google Tag Manager](https://online-store.info/docs/integrations/google-tag-manager)
 
 ### Store Management
 
-- [Admin Dashboard](https://online-store.info/docs/management/dashboard)
-- [User Management](https://online-store.info/docs/management/users)
-- [Store Settings](https://online-store.info/docs/management/settings)
-- [System Logs](https://online-store.info/docs/management/logs)
-- [Backup & Restore](https://online-store.info/docs/management/backup)
+- [Store Management Index](https://online-store.info/docs/store-management/store-management-index)
+- [General Settings](https://online-store.info/docs/store-management/general-settings)
+- [Maintenance Mode](https://online-store.info/docs/store-management/maintenance-mode)
+- [Staff Permissions](https://online-store.info/docs/store-management/staff-permissions)
+- [Social Profiles](https://online-store.info/docs/store-management/social-profiles)
+- [Legal Pages](https://online-store.info/docs/store-management/legal-pages)
 
-### Catalog Management
+### Account
 
-- [Product Setup](https://online-store.info/docs/catalog/products)
-- [Category Structure](https://online-store.info/docs/catalog/categories)
-- [Attribute Management](https://online-store.info/docs/catalog/attributes)
-- [Inventory Control](https://online-store.info/docs/catalog/inventory)
-- [Product Import/Export](https://online-store.info/docs/catalog/import-export)
-
-### Content Management
-
-- [Page Builder](https://online-store.info/docs/content/page-builder)
-- [Blog Management](https://online-store.info/docs/content/blog)
-- [Media Library](https://online-store.info/docs/content/media)
-- [Navigation Menus](https://online-store.info/docs/content/navigation)
-- [SEO Tools](https://online-store.info/docs/content/seo)
-
-### Sales Operations
-
-- [Order Management](https://online-store.info/docs/sales/orders)
-- [Payment Processing](https://online-store.info/docs/sales/payments)
-- [Shipping Configuration](https://online-store.info/docs/sales/shipping)
-- [Tax Settings](https://online-store.info/docs/sales/taxes)
-- [Discount Management](https://online-store.info/docs/sales/discounts)
-
-### Customer Management
-
-- [Customer Accounts](https://online-store.info/docs/customers/accounts)
-- [Customer Groups](https://online-store.info/docs/customers/groups)
-- [Loyalty Programs](https://online-store.info/docs/customers/loyalty)
-- [Communication Tools](https://online-store.info/docs/customers/communication)
-- [Privacy Compliance](https://online-store.info/docs/customers/privacy)
-
-### Marketing Tools
-
-- [Email Marketing](https://online-store.info/docs/marketing/email)
-- [Promotions](https://online-store.info/docs/marketing/promotions)
-- [SEO Features](https://online-store.info/docs/marketing/seo)
-- [Social Media Integration](https://online-store.info/docs/marketing/social)
-- [Analytics & Tracking](https://online-store.info/docs/marketing/analytics)
-
-### Design & Themes
-
-- [Theme Management](https://online-store.info/docs/design/themes)
-- [Visual Editor](https://online-store.info/docs/design/visual-editor)
-- [CSS Customization](https://online-store.info/docs/design/css)
-- [Responsive Design](https://online-store.info/docs/design/responsive)
-- [Page Templates](https://online-store.info/docs/design/templates)
-
-### Developer Resources
-
-- [API Documentation](https://online-store.info/docs/developer/api)
-- [Theme Development](https://online-store.info/docs/developer/themes)
-- [Custom Modules](https://online-store.info/docs/developer/modules)
-- [Webhook Integration](https://online-store.info/docs/developer/webhooks)
-- [Development Tools](https://online-store.info/docs/developer/tools)
-
-### App Marketplace
-
-- [App Installation](https://online-store.info/docs/apps/installation)
-- [App Configuration](https://online-store.info/docs/apps/configuration)
-- [App Development](https://online-store.info/docs/apps/development)
-- [App Submission](https://online-store.info/docs/apps/submission)
-- [App Monetization](https://online-store.info/docs/apps/monetization)
-
-### Troubleshooting
-
-- [Common Issues](https://online-store.info/docs/troubleshooting/common-issues)
-- [Error Messages](https://online-store.info/docs/troubleshooting/errors)
-- [Performance Optimization](https://online-store.info/docs/troubleshooting/performance)
-- [Diagnostic Tools](https://online-store.info/docs/troubleshooting/tools)
-- [Support Resources](https://online-store.info/docs/troubleshooting/support)
+- [Account Index](https://online-store.info/docs/account/account-index)
+- [Contact](https://online-store.info/docs/account/contact)
+- [Delete/Pause Store](https://online-store.info/docs/account/delete-pause-store)
+- [Cancel Subscription](https://online-store.info/docs/account/cancel-subscription)
+- [Password Reset](https://online-store.info/docs/account/password-reset)
 
 ## Partner-Exclusive Documentation
 
