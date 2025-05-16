@@ -8,14 +8,14 @@ sidebar_label: Knowledge Base
 
 ## Comprehensive Platform Documentation
 
-The Store.icu Knowledge Base is a comprehensive repository of documentation, guides, and best practices for our platform. Located at [online-store.info/docs](https://online-store.info/docs), this resource serves as the definitive reference for all technical and operational aspects of the Store.icu platform.
+The Store.icu Knowledge Base is a comprehensive repository of documentation, guides, and best practices for our platform. Located at [online-store.info/docs](https://online-store.info/docs){:target="_blank"}, this resource serves as the definitive reference for all technical and operational aspects of the Store.icu platform.
 
 ## Accessing the Knowledge Base
 
 ### Direct Access
 
 The Knowledge Base is publicly accessible at:
-[online-store.info/docs](https://online-store.info/docs)
+[online-store.info/docs](https://online-store.info/docs){:target="_blank"}
 
 No login is required to access the documentation, making it easy to share specific articles with clients or team members.
 
@@ -23,7 +23,7 @@ No login is required to access the documentation, making it easy to share specif
 
 For convenience, the Knowledge Base is also accessible directly from the Partner Portal:
 
-1. Log in to the [Partner Portal](https://partners.store.icu)
+1. Log in to the [Partner Portal](https://partners.store.icu){:target="_blank"}
 2. Click "Resources" in the main navigation
 3. Select "Knowledge Base"
 
@@ -35,97 +35,97 @@ The documentation is organized into logical sections to make information easy to
 
 ### Getting Started
 
-- [What is Ecommerce](https://online-store.info/docs/getting-started/what-is-ecommerce)
-- [Getting Started Index](https://online-store.info/docs/getting-started/getting-started-index)
-- [Setup Ecommerce Store](https://online-store.info/docs/getting-started/setup-ecommerce-store)
-- [FAQ](https://online-store.info/docs/getting-started/faq)
-- [Billing & Subscription](https://online-store.info/docs/getting-started/billing-subscription)
+- [What is Ecommerce](https://online-store.info/docs/getting-started/what-is-ecommerce){:target="_blank"}
+- [Getting Started Index](https://online-store.info/docs/getting-started/getting-started-index){:target="_blank"}
+- [Setup Ecommerce Store](https://online-store.info/docs/getting-started/setup-ecommerce-store){:target="_blank"}
+- [FAQ](https://online-store.info/docs/getting-started/faq){:target="_blank"}
+- [Billing & Subscription](https://online-store.info/docs/getting-started/billing-subscription){:target="_blank"}
 
 ### Store Setup
 
-- [Connect Custom Domain](https://online-store.info/docs/store-setup/connect-custom-domain)
-- [Setting Up Currency](https://online-store.info/docs/store-setup/setting-up-currency)
-- [Branding](https://online-store.info/docs/store-setup/branding)
-- [Navigation Menus](https://online-store.info/docs/store-setup/navigation-menus)
-- [Pages](https://online-store.info/docs/store-setup/pages)
+- [Connect Custom Domain](https://online-store.info/docs/store-setup/connect-custom-domain){:target="_blank"}
+- [Setting Up Currency](https://online-store.info/docs/store-setup/setting-up-currency){:target="_blank"}
+- [Branding](https://online-store.info/docs/store-setup/branding){:target="_blank"}
+- [Navigation Menus](https://online-store.info/docs/store-setup/navigation-menus){:target="_blank"}
+- [Pages](https://online-store.info/docs/store-setup/pages){:target="_blank"}
 
 ### Products
 
-- [Products Index](https://online-store.info/docs/products/products-index)
-- [Creating Products](https://online-store.info/docs/products/creating-products)
-- [Product Collections](https://online-store.info/docs/products/product-collections)
-- [Inventory Management](https://online-store.info/docs/products/inventory-management)
-- [Price Rounding](https://online-store.info/docs/products/price-rounding)
-- [Locations](https://online-store.info/docs/products/locations)
+- [Products Index](https://online-store.info/docs/products/products-index){:target="_blank"}
+- [Creating Products](https://online-store.info/docs/products/creating-products){:target="_blank"}
+- [Product Collections](https://online-store.info/docs/products/product-collections){:target="_blank"}
+- [Inventory Management](https://online-store.info/docs/products/inventory-management){:target="_blank"}
+- [Price Rounding](https://online-store.info/docs/products/price-rounding){:target="_blank"}
+- [Locations](https://online-store.info/docs/products/locations){:target="_blank"}
 
 ### Payments
 
-- [Payments Index](https://online-store.info/docs/payments/payments-index)
-- [Payment Methods](https://online-store.info/docs/payments/payment-methods)
-- [Cash on Delivery](https://online-store.info/docs/payments/cash-on-delivery)
+- [Payments Index](https://online-store.info/docs/payments/payments-index){:target="_blank"}
+- [Payment Methods](https://online-store.info/docs/payments/payment-methods){:target="_blank"}
+- [Cash on Delivery](https://online-store.info/docs/payments/cash-on-delivery){:target="_blank"}
 
 #### Payment Gateways
 
-- [PayPal](https://online-store.info/docs/payments/payment-gateways/paypal)
-- [Stripe](https://online-store.info/docs/payments/payment-gateways/stripe)
-- [PayStack](https://online-store.info/docs/payments/payment-gateways/paystack)
-- [Flutterwave](https://online-store.info/docs/payments/payment-gateways/flutterwave)
-- [Mercado Pago](https://online-store.info/docs/payments/payment-gateways/mercado-pago)
-- [Razorpay](https://online-store.info/docs/payments/payment-gateways/razorpay)
-- [Mamo Pay](https://online-store.info/docs/payments/payment-gateways/mamo-pay)
-- [Yoco](https://online-store.info/docs/payments/payment-gateways/yoco)
-- [Nets Easy](https://online-store.info/docs/payments/payment-gateways/nets-easy)
-- [Vipps](https://online-store.info/docs/payments/payment-gateways/vipps)
-- [Mollie](https://online-store.info/docs/payments/payment-gateways/mollie)
-- [ePoint](https://online-store.info/docs/payments/payment-gateways/epoint)
-- [iyzico](https://online-store.info/docs/payments/payment-gateways/iyzico)
-- [Payriff](https://online-store.info/docs/payments/payment-gateways/payriff)
+- [PayPal](https://online-store.info/docs/payments/payment-gateways/paypal){:target="_blank"}
+- [Stripe](https://online-store.info/docs/payments/payment-gateways/stripe){:target="_blank"}
+- [PayStack](https://online-store.info/docs/payments/payment-gateways/paystack){:target="_blank"}
+- [Flutterwave](https://online-store.info/docs/payments/payment-gateways/flutterwave){:target="_blank"}
+- [Mercado Pago](https://online-store.info/docs/payments/payment-gateways/mercado-pago){:target="_blank"}
+- [Razorpay](https://online-store.info/docs/payments/payment-gateways/razorpay){:target="_blank"}
+- [Mamo Pay](https://online-store.info/docs/payments/payment-gateways/mamo-pay){:target="_blank"}
+- [Yoco](https://online-store.info/docs/payments/payment-gateways/yoco){:target="_blank"}
+- [Nets Easy](https://online-store.info/docs/payments/payment-gateways/nets-easy){:target="_blank"}
+- [Vipps](https://online-store.info/docs/payments/payment-gateways/vipps){:target="_blank"}
+- [Mollie](https://online-store.info/docs/payments/payment-gateways/mollie){:target="_blank"}
+- [ePoint](https://online-store.info/docs/payments/payment-gateways/epoint){:target="_blank"}
+- [iyzico](https://online-store.info/docs/payments/payment-gateways/iyzico){:target="_blank"}
+- [Payriff](https://online-store.info/docs/payments/payment-gateways/payriff){:target="_blank"}
 
 ### Shipping
 
-- [Shipping Index](https://online-store.info/docs/shipping/shipping-index)
-- [Creating Shipping Rules](https://online-store.info/docs/shipping/creating-shipping-rules)
-- [Shipping Methods](https://online-store.info/docs/shipping/shipping-methods)
-- [Local Pickup](https://online-store.info/docs/shipping/local-pickup)
+- [Shipping Index](https://online-store.info/docs/shipping/shipping-index){:target="_blank"}
+- [Creating Shipping Rules](https://online-store.info/docs/shipping/creating-shipping-rules){:target="_blank"}
+- [Shipping Methods](https://online-store.info/docs/shipping/shipping-methods){:target="_blank"}
+- [Local Pickup](https://online-store.info/docs/shipping/local-pickup){:target="_blank"}
 
 #### Shipping Methods
 
-- [Courier Guy](https://online-store.info/docs/shipping/shipping-methods/courier-guy)
-- [MyParcel](https://online-store.info/docs/shipping/shipping-methods/myparcel)
+- [Courier Guy](https://online-store.info/docs/shipping/shipping-methods/courier-guy){:target="_blank"}
+- [MyParcel](https://online-store.info/docs/shipping/shipping-methods/myparcel){:target="_blank"}
 
 ### Taxes
 
-- [Taxes Index](https://online-store.info/docs/taxes/taxes-index)
-- [Creating Tax Rates](https://online-store.info/docs/taxes/creating-tax-rates)
+- [Taxes Index](https://online-store.info/docs/taxes/taxes-index){:target="_blank"}
+- [Creating Tax Rates](https://online-store.info/docs/taxes/creating-tax-rates){:target="_blank"}
 
 ### Marketing
 
-- [Marketing Index](https://online-store.info/docs/marketing/marketing-index)
-- [Marketing Tools](https://online-store.info/docs/marketing/marketing-tools)
+- [Marketing Index](https://online-store.info/docs/marketing/marketing-index){:target="_blank"}
+- [Marketing Tools](https://online-store.info/docs/marketing/marketing-tools){:target="_blank"}
 
 ### Integrations
 
-- [Google Analytics](https://online-store.info/docs/integrations/google-analytics)
-- [Meta Pixel](https://online-store.info/docs/integrations/meta-pixel)
-- [TikTok Pixel](https://online-store.info/docs/integrations/tiktok-pixel)
-- [Google Tag Manager](https://online-store.info/docs/integrations/google-tag-manager)
+- [Google Analytics](https://online-store.info/docs/integrations/google-analytics){:target="_blank"}
+- [Meta Pixel](https://online-store.info/docs/integrations/meta-pixel){:target="_blank"}
+- [TikTok Pixel](https://online-store.info/docs/integrations/tiktok-pixel){:target="_blank"}
+- [Google Tag Manager](https://online-store.info/docs/integrations/google-tag-manager){:target="_blank"}
 
 ### Store Management
 
-- [Store Management Index](https://online-store.info/docs/store-management/store-management-index)
-- [General Settings](https://online-store.info/docs/store-management/general-settings)
-- [Maintenance Mode](https://online-store.info/docs/store-management/maintenance-mode)
-- [Staff Permissions](https://online-store.info/docs/store-management/staff-permissions)
-- [Social Profiles](https://online-store.info/docs/store-management/social-profiles)
-- [Legal Pages](https://online-store.info/docs/store-management/legal-pages)
+- [Store Management Index](https://online-store.info/docs/store-management/store-management-index){:target="_blank"}
+- [General Settings](https://online-store.info/docs/store-management/general-settings){:target="_blank"}
+- [Maintenance Mode](https://online-store.info/docs/store-management/maintenance-mode){:target="_blank"}
+- [Staff Permissions](https://online-store.info/docs/store-management/staff-permissions){:target="_blank"}
+- [Social Profiles](https://online-store.info/docs/store-management/social-profiles){:target="_blank"}
+- [Legal Pages](https://online-store.info/docs/store-management/legal-pages){:target="_blank"}
 
 ### Account
 
-- [Account Index](https://online-store.info/docs/account/account-index)
-- [Contact](https://online-store.info/docs/account/contact)
-- [Delete/Pause Store](https://online-store.info/docs/account/delete-pause-store)
-- [Cancel Subscription](https://online-store.info/docs/account/cancel-subscription)
-- [Password Reset](https://online-store.info/docs/account/password-reset)
+- [Account Index](https://online-store.info/docs/account/account-index){:target="_blank"}
+- [Contact](https://online-store.info/docs/account/contact){:target="_blank"}
+- [Delete/Pause Store](https://online-store.info/docs/account/delete-pause-store){:target="_blank"}
+- [Cancel Subscription](https://online-store.info/docs/account/cancel-subscription){:target="_blank"}
+- [Password Reset](https://online-store.info/docs/account/password-reset){:target="_blank"}
 
 ## Partner-Exclusive Documentation
 
@@ -246,7 +246,7 @@ Submit your own content for consideration:
 4. Performance optimization techniques
 5. Custom development solutions
 
-Submit contribution proposals through the [Partner Portal](https://partners.store.icu/contribute).
+Submit contribution proposals through the [Partner Portal](https://partners.store.icu/contribute){:target="_blank"}.
 
 ## White-Labeling Documentation
 
@@ -295,7 +295,7 @@ Stay informed about documentation changes:
 4. Notification badges for updated articles you've previously viewed
 5. RSS feed for subscription-based updates
 
-Subscribe to update notifications in your [Partner Portal preferences](https://partners.store.icu/preferences).
+Subscribe to update notifications in your [Partner Portal preferences](https://partners.store.icu/preferences){:target="_blank"}.
 
 ## Offline Access
 
@@ -396,17 +396,17 @@ Gold and Platinum partners can access documentation analytics:
 - Content engagement scores
 - Learning progression through related articles
 
-Access these analytics in the [Partner Portal](https://partners.store.icu/analytics/knowledge-base).
+Access these analytics in the [Partner Portal](https://partners.store.icu/analytics/knowledge-base){:target="_blank"}.
 
 ## Additional Resources
 
 Complementary learning materials:
 
-- [Video Library](https://online-store.info/videos)
-- [Interactive Training Courses](https://online-store.info/training)
-- [Certification Programs](https://online-store.info/certification)
-- [Partner Webinar Archives](https://online-store.info/webinars)
-- [Community Forums](https://online-store.info/community)
+- [Video Library](https://online-store.info/videos){:target="_blank"}
+- [Interactive Training Courses](https://online-store.info/training){:target="_blank"}
+- [Certification Programs](https://online-store.info/certification){:target="_blank"}
+- [Partner Webinar Archives](https://online-store.info/webinars){:target="_blank"}
+- [Community Forums](https://online-store.info/community){:target="_blank"}
 
 ## Knowledge Base Support
 
@@ -418,4 +418,4 @@ For assistance with the Knowledge Base:
 - **Feature Requests**: Submit through the Partner Portal
 - **Content Requests**: Email content-request@store.icu
 
-For comprehensive platform support beyond documentation, please refer to our [Support Guidelines](./support-guidelines).
+For comprehensive platform support beyond documentation, please refer to our [Support Guidelines](./support-guidelines){:target="_blank"}.
