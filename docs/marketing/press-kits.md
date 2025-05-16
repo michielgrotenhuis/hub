@@ -1,5 +1,7 @@
 ---
-sidebar_position: 2
+id: press-kits
+title: Press Kits
+sidebar_label: Press Kits
 ---
 
 # Press Kits
