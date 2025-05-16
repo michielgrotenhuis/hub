@@ -30,20 +30,20 @@ Store.icu integrates with a wide range of payment processors to accommodate diff
 
 | Region | Payment Providers | Key Considerations |
 |--------|-------------------|-------------------|
-| **Europe** | - Klarna<br>- iDEAL (Netherlands)<br>- Sofort (Germany)<br>- Bancontact (Belgium)<br>- Cartes Bancaires (France) | - Strong customer authentication (SCA) compliance<br>- SEPA Direct Debit support<br>- Local payment preferences vary by country |
-| **North America** | - Moneris (Canada)<br>- Affirm<br>- Sezzle<br>- Shop Pay | - ACH payment support<br>- Buy now, pay later options increasingly important<br>- Level 2/3 card data for B2B |
-| **Asia Pacific** | - Alipay<br>- WeChat Pay<br>- Paytm (India)<br>- GrabPay (SE Asia)<br>- POLi (Australia) | - Mobile wallet prevalence<br>- QR code payments<br>- Local regulatory compliance |
-| **Latin America** | - Mercado Pago<br>- Oxxo (Mexico)<br>- Boleto Bancário (Brazil)<br>- PSE (Colombia) | - Cash voucher payments<br>- Installment payments ("parcelas")<br>- High fraud prevention requirements |
-| **Middle East & Africa** | - KNET (Kuwait)<br>- MADA (Saudi Arabia)<br>- M-Pesa (Kenya, Tanzania)<br>- Fawry (Egypt) | - Cash on delivery importance<br>- Mobile money services<br>- Diverse regulatory requirements |
+| **Europe** | - Klarna<br />- iDEAL (Netherlands)<br />- Sofort (Germany)<br />- Bancontact (Belgium)<br />- Cartes Bancaires (France) | - Strong customer authentication (SCA) compliance<br />- SEPA Direct Debit support<br />- Local payment preferences vary by country |
+| **North America** | - Moneris (Canada)<br />- Affirm<br />- Sezzle<br />- Shop Pay | - ACH payment support<br />- Buy now, pay later options increasingly important<br />- Level 2/3 card data for B2B |
+| **Asia Pacific** | - Alipay<br />- WeChat Pay<br />- Paytm (India)<br />- GrabPay (SE Asia)<br />- POLi (Australia) | - Mobile wallet prevalence<br />- QR code payments<br />- Local regulatory compliance |
+| **Latin America** | - Mercado Pago<br />- Oxxo (Mexico)<br />- Boleto Bancário (Brazil)<br />- PSE (Colombia) | - Cash voucher payments<br />- Installment payments ("parcelas")<br />- High fraud prevention requirements |
+| **Middle East & Africa** | - KNET (Kuwait)<br />- MADA (Saudi Arabia)<br />- M-Pesa (Kenya, Tanzania)<br />- Fawry (Egypt) | - Cash on delivery importance<br />- Mobile money services<br />- Diverse regulatory requirements |
 
 ### Alternative Payment Methods
 
 | Payment Type | Options | Considerations |
 |--------------|---------|----------------|
-| **Buy Now, Pay Later** | - Klarna<br>- Afterpay/Clearpay<br>- Affirm<br>- Zip | - Can increase average order value<br>- Appeals to younger demographics<br>- Integration complexity varies |
-| **Cryptocurrency** | - BitPay<br>- Coinbase Commerce<br>- CoinPayments | - Volatility considerations<br>- Limited mainstream adoption<br>- May require specialized tax handling |
-| **Digital Wallets** | - Apple Pay<br>- Google Pay<br>- Samsung Pay<br>- Click to Pay | - Improves mobile conversion rates<br>- Reduces checkout friction<br>- Requires specific technical implementations |
-| **B2B Payment Methods** | - Net terms<br>- Purchase orders<br>- ACH/Wire transfers<br>- Credit line | - Requires approval workflows<br>- Custom pricing consideration<br>- Integration with accounting systems |
+| **Buy Now, Pay Later** | - Klarna<br />- Afterpay/Clearpay<br />- Affirm<br />- Zip | - Can increase average order value<br />- Appeals to younger demographics<br />- Integration complexity varies |
+| **Cryptocurrency** | - BitPay<br />- Coinbase Commerce<br />- CoinPayments | - Volatility considerations<br />- Limited mainstream adoption<br />- May require specialized tax handling |
+| **Digital Wallets** | - Apple Pay<br />- Google Pay<br />- Samsung Pay<br />- Click to Pay | - Improves mobile conversion rates<br />- Reduces checkout friction<br />- Requires specific technical implementations |
+| **B2B Payment Methods** | - Net terms<br />- Purchase orders<br />- ACH/Wire transfers<br />- Credit line | - Requires approval workflows<br />- Custom pricing consideration<br />- Integration with accounting systems |
 
 ## Implementation Considerations
 
@@ -61,11 +61,11 @@ When implementing payment methods on your Store.icu platform, the following tech
 
 | Phase | Duration | Key Activities |
 |-------|----------|----------------|
-| **Planning** | 1-2 weeks | - Payment needs assessment<br>- Processor selection<br>- Account applications |
-| **Development** | 1-3 weeks | - Payment gateway integration<br>- Checkout experience design<br>- Error handling implementation |
-| **Testing** | 1-2 weeks | - Transaction testing<br>- Error scenario validation<br>- Mobile device compatibility |
-| **Compliance Review** | 1 week | - Security assessment<br>- PCI compliance verification<br>- Data handling validation |
-| **Launch** | 1-2 days | - Production credentials transition<br>- Final end-to-end testing<br>- Monitoring setup |
+| **Planning** | 1-2 weeks | - Payment needs assessment<br />- Processor selection<br />- Account applications |
+| **Development** | 1-3 weeks | - Payment gateway integration<br />- Checkout experience design<br />- Error handling implementation |
+| **Testing** | 1-2 weeks | - Transaction testing<br />- Error scenario validation<br />- Mobile device compatibility |
+| **Compliance Review** | 1 week | - Security assessment<br />- PCI compliance verification<br />- Data handling validation |
+| **Launch** | 1-2 days | - Production credentials transition<br />- Final end-to-end testing<br />- Monitoring setup |
 
 *Note: Timeline estimates vary based on the complexity of your payment requirements and the number of payment methods being implemented.*
 
@@ -109,12 +109,12 @@ Different regions have specific customer expectations for the checkout experienc
 
 | Business Type | Recommended Primary Methods | Recommended Secondary Methods |
 |---------------|---------------------------|------------------------------|
-| **B2C Retail** | - Credit/debit cards<br>- PayPal<br>- Digital wallets | - Buy now, pay later<br>- Local payment methods |
-| **B2B Commerce** | - Credit cards<br>- Purchase orders<br>- ACH/Bank transfers | - Net terms/Credit lines<br>- Digital wallets |
-| **Subscription Business** | - Credit cards with secure storage<br>- Direct debit/ACH | - Digital wallets<br>- PayPal |
-| **Marketplace** | - Split payment processors<br>- Escrow solutions | - Credit cards<br>- PayPal |
-| **International Seller** | - Multi-currency processors<br>- Regional payment hubs | - Local payment methods<br>- Digital wallets |
-| **Luxury/High-Value Items** | - Credit cards<br>- Bank transfers<br>- Financing options | - Escrow services<br>- Verified payment methods |
+| **B2C Retail** | - Credit/debit cards<br />- PayPal<br />- Digital wallets | - Buy now, pay later<br />- Local payment methods |
+| **B2B Commerce** | - Credit cards<br />- Purchase orders<br />- ACH/Bank transfers | - Net terms/Credit lines<br />- Digital wallets |
+| **Subscription Business** | - Credit cards with secure storage<br />- Direct debit/ACH | - Digital wallets<br />- PayPal |
+| **Marketplace** | - Split payment processors<br />- Escrow solutions | - Credit cards<br />- PayPal |
+| **International Seller** | - Multi-currency processors<br />- Regional payment hubs | - Local payment methods<br />- Digital wallets |
+| **Luxury/High-Value Items** | - Credit cards<br />- Bank transfers<br />- Financing options | - Escrow services<br />- Verified payment methods |
 
 ### Transaction Cost Optimization
 
@@ -132,9 +132,9 @@ Implement these risk management strategies based on your business profile:
 
 | Risk Level | Business Characteristics | Recommended Measures |
 |------------|--------------------------|----------------------|
-| **Standard** | - Physical products<br>- Established customer base<br>- Average order value <$100 | - Basic AVS/CVV checking<br>- Processor-provided fraud tools |
-| **Enhanced** | - Digital goods<br>- International customers<br>- Average order value $100-$500 | - 3D Secure 2.0<br>- Device fingerprinting<br>- Custom fraud rules |
-| **Maximum** | - High-value items<br>- High-risk verticals<br>- Average order value >$500 | - Advanced fraud platforms<br>- Manual review workflows<br>- Identity verification steps |
+| **Standard** | - Physical products<br />- Established customer base<br />- Average order value <$100 | - Basic AVS/CVV checking<br />- Processor-provided fraud tools |
+| **Enhanced** | - Digital goods<br />- International customers<br />- Average order value $100-$500 | - 3D Secure 2.0<br />- Device fingerprinting<br />- Custom fraud rules |
+| **Maximum** | - High-value items<br />- High-risk verticals<br />- Average order value >$500 | - Advanced fraud platforms<br />- Manual review workflows<br />- Identity verification steps |
 
 ## Setup Process
 
@@ -197,10 +197,10 @@ Regular maintenance activities include:
 
 | Issue | Possible Causes | Resolution Approaches |
 |-------|----------------|------------------------|
-| **High Decline Rates** | - Incorrect payment details<br>- Fraud filters<br>- Processor errors | - Improve field validation<br>- Optimize fraud rules<br>- Processor communication |
-| **Abandoned Carts** | - Complex checkout<br>- Limited payment options<br>- Unexpected costs | - Streamline checkout flow<br>- Add relevant payment methods<br>- Transparent pricing |
-| **Processing Errors** | - API configuration<br>- Server issues<br>- Timeout errors | - Error logging<br>- Failover options<br>- Processor status monitoring |
-| **Chargebacks** | - Fraud<br>- Customer dissatisfaction<br>- Unclear merchant descriptor | - Improved fraud detection<br>- Clear communication<br>- Dispute management process |
+| **High Decline Rates** | - Incorrect payment details<br />- Fraud filters<br />- Processor errors | - Improve field validation<br />- Optimize fraud rules<br />- Processor communication |
+| **Abandoned Carts** | - Complex checkout<br />- Limited payment options<br />- Unexpected costs | - Streamline checkout flow<br />- Add relevant payment methods<br />- Transparent pricing |
+| **Processing Errors** | - API configuration<br />- Server issues<br />- Timeout errors | - Error logging<br />- Failover options<br />- Processor status monitoring |
+| **Chargebacks** | - Fraud<br />- Customer dissatisfaction<br />- Unclear merchant descriptor | - Improved fraud detection<br />- Clear communication<br />- Dispute management process |
 
 ## Getting Started
 
