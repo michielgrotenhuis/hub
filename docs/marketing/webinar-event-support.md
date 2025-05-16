@@ -2,7 +2,7 @@
 id: webinar-event-support
 title: Webinar & Event Support
 sidebar_position: 5
-description: Guidelines and resources for Store.icu partners to plan and promote webinars and co-branded events.
+description: Slide decks, videos, speaker notes, and promotional materials for hosting webinars, workshops, and other events. These resources help you create engaging educational experiences for prospects and customers.
 ---
 
 # 🎤 Webinar & Event Support
