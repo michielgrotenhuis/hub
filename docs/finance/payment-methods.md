@@ -1,5 +1,7 @@
 ---
-sidebar_position: 4
+id: payment-methods
+title: Payment Methods
+sidebar_label: Payment Methods
 ---
 
 # Payment Methods
@@ -216,7 +218,7 @@ As your Store.icu implementation partner, we'll guide you through the payment se
 
 To begin implementing payment methods on your Store.icu platform:
 
-1. Complete our [Payment Requirements Questionnaire]()
+1. Complete our Payment Requirements Questionnaire
 2. Schedule a payment consultation call
 3. Gather required documentation for processor applications
 4. Review our payment implementation proposal
