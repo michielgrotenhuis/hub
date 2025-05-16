@@ -2,7 +2,7 @@
 id: marketing-collateral
 title: Marketing Collateral
 sidebar_position: 7
-description: Download brochures, decks, one-pagers, and sales materials for Store.icu partners.
+description: A collection of digital brochures, flyers, datasheets, and infographics that can be used to showcase our solutions. These assets are designed to be easily shared with prospects and customers through various channels.
 ---
 
 # 📂 Marketing Collateral
