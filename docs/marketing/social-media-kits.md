@@ -2,7 +2,7 @@
 id: social-media-kits
 title: Social Media Kits
 sidebar_position: 6
-description: Access templates, visuals, and best practices for promoting Store.icu on social media.
+description: Pre-approved posts, hashtags, and banner images for platforms like LinkedIn, Twitter, Facebook, and Instagram. These assets are designed to generate engagement and drive awareness of our partnership.
 ---
 
 # 📱 Social Media Kits
