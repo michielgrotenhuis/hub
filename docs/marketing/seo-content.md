@@ -1,5 +1,8 @@
 ---
-sidebar_position: 2
+id: SEO-Content
+title: Seo & Content Materials
+sidebar_position: 3
+Description: Blog posts, whitepapers, keywords, and industry reports that help improve organic visibility and establish thought leadership. These resources can be used to attract and educate potential customers about our solutions.
 ---
 
 # SEO Content
