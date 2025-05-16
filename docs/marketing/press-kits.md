@@ -2,6 +2,7 @@
 id: press-kits
 title: Press Kits
 sidebar_label: Press Kits
+Description: Press releases, media contacts, and boilerplates to help you communicate partnership news and product announcements to relevant media outlets and industry analysts.
 ---
 
 # Press Kits
