@@ -2,7 +2,7 @@
 id: branding-guidelines
 title: Branding Guidelines
 sidebar_position: 4
-description: Learn how to use Store.icu branding assets correctly.
+description: Comprehensive guidelines for using our logos, color schemes, fonts, and messaging to maintain brand consistency across all marketing channels. This includes proper logo usage, spacing requirements, and approved color palettes.
 ---
 
 # Store.icu Branding Guidelines
