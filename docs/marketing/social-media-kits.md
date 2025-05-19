@@ -11,18 +11,28 @@ Promote your partnership with Store.icu using our ready-made graphics, post temp
 
 ## 📦 Download Social Media Kits
 
-Choose a kit based on your campaign or partnership type:
+We’ve created ready-to-use social media post templates to help you promote Store.icu under your brand. Feel free to download, edit, and share these templates with your marketing team to create impactful posts.
 
-- 🎉 [General Partnership Kit](https://store.icu/assets/social/general-partner-kit.zip)  
+
+You can access and customize them here:
+
+[Figma: Store.icu eCommerce Social Media Post Templates](https://www.figma.com/design/EIAe4oWtdLwGia4nwL0ATa/Store.icu---Ecommerce-social-media-post-template?node-id=4005-4&m=dev&t=oFPuutfgKwYjUIvV-1)
+
+---
+
+More to come: 
+
+
+- 🎉 General Partnership Kit 
   Logos, captions, banners, and post templates to announce your partnership.
 
-- 🧩 [Feature Launch Kit](https://store.icu/assets/social/feature-launch-kit.zip)  
+- 🧩 Feature Launch Kit
   Assets for joint product or feature announcements.
 
-- 📆 [Event/Webinar Promo Kit](https://store.icu/assets/social/event-promo-kit.zip)  
+- 📆 Event/Webinar Promo Kit 
   Graphics and text for promoting co-hosted events and webinars.
 
-- 📊 [Customer Story Kit](https://store.icu/assets/social/customer-story-kit.zip)  
+- 📊 Customer Story Kit
   Templates to highlight joint customer wins and success stories.
 
 ## ✍️ Social Post Templates
