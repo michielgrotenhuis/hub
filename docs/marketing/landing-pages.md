@@ -116,6 +116,10 @@ Add these near the footer or CTA:
 
 ---
 
+### Examples
+[SaaS Provider (figma)] (https://www.figma.com/design/iakXuxxUKd3NmPqnCExmv3/Store.icu-SaaS-provider-E-commerce-Website?node-id=0-1&m=dev)
+
+
 ## 🔧 Recommended Tools
 
 - **Page builders**: Unbounce, Leadpages, Webflow, or your custom branded store.icu frontend.
