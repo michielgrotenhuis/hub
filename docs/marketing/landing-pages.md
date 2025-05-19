@@ -117,6 +117,7 @@ Add these near the footer or CTA:
 ---
 
 ### Examples
+![Figma design](/img/ecommerce-saas-figma.png)
 [SaaS Provider (figma)] (https://www.figma.com/design/iakXuxxUKd3NmPqnCExmv3/Store.icu-SaaS-provider-E-commerce-Website?node-id=0-1&m=dev)
 
 
